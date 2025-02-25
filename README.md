@@ -1,7 +1,7 @@
 ## Mateus Prado👋
 
 
-- 🔭 Focado em desenvolvimento Back-End
+- 🔭 Desenvolvedor Back-End
 - 🌱 Estudando Java
 
 ## Estou aprendendo
