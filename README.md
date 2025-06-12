@@ -20,8 +20,6 @@ Me chamo Mateus Prado, tenho 22 anos e sou de Londrina PR. Atualmente, estou cur
 </div>
 
 
-### 📊 Estatísticas
-
 <img 
     align="left" 
     alt="Github Stats" 
