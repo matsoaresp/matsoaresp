@@ -9,7 +9,7 @@ Me chamo Mateus Prado, tenho 22 anos e sou de Londrina PR. Atualmente, estou cur
 <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="30"/> 
 </div>
 
-## 👨Estatísticas 
+## 📊Estatísticas 
 
 <img 
     align="left" 
