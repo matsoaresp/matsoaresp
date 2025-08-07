@@ -1,5 +1,7 @@
 
 
+
+
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="25"/>
@@ -25,6 +27,23 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="25"/>
 </div>
+
+```js
+import Desenvolvedor from "matsoaresp";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Mateus Prado";
+  area = "Desenvolvedor back-end";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, Python, JavaScript"];
+  bibliotecas = ["Selenium, Pyautogui, Pandas"];
+  frameworks = ["Spring Boot, Flask, React"];
+}
+```
+
+
 <img 
     align="left" 
     alt="Github Stats" 
