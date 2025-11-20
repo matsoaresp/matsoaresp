@@ -11,13 +11,13 @@ import Desenvolvedor from "matsoaresp";
 
 class SobreMim extends Desenvolvedor {
   nome = "Mateus Prado";
-  area = "Desenvolvedor back-end";
+  area = "Desenvolvedor Full-stack";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java, Python, JavaScript"];
-  bibliotecas = ["Selenium, Pyautogui, Pandas"];
-  frameworks = ["Spring Boot, Flask, React"];
+  linguagens = ["Java", "TypeScript", "JavaScript"];
+  bibliotecas = ["JUnit", "React"];
+  frameworks = ["Spring Boot", "NodeJs", "NestJs", "NextJs"];
 }
 ```
 
