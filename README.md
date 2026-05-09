@@ -15,7 +15,7 @@ I have experience in full-stack development with TypeScript and task automation 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,nextjs,nestjs,postgresql,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,nextjs,nestjs,python,selenium,postgresql,mysql&theme=light)](https://skillicons.dev)
 
 ### Main Projects
 #### Java
