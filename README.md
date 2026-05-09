@@ -10,7 +10,7 @@ I have experience in full-stack development with TypeScript and task automation 
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [maateussp@gmail.com](mailto:maateussp@gmail.com)
-* 🧠  I'm currently learning Java, Spring Boot, and microservices.
+* 🧠 I am constantly learning and improving myself in Java, Spring Boot, and microservices architecture.
 * 👥  I'm looking to collaborate on I'm open to collaborating on back-end and front-end development projects.
 
 ### Skills
