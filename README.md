@@ -17,6 +17,11 @@ I have experience in full-stack development with TypeScript and task automation 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,nextjs,nestjs,postgresql,mysql&theme=light)](https://skillicons.dev)
 
+### Main Projects
+#### Java
+* Financial control API: https://github.com/matsoaresp/controle-financeiro-api
+* Binary tree: https://github.com/matsoaresp/arvore_binaria
+
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/maateussp/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="57" height="57" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
