@@ -21,6 +21,9 @@ I have experience in full-stack development with TypeScript and task automation 
 #### Java
 * Financial control API: https://github.com/matsoaresp/controle-financeiro-api
 * Binary tree: https://github.com/matsoaresp/arvore_binaria
+* Called System: https://github.com/matsoaresp/sistema-chamados
+* AppStore Front-End: https://github.com/matsoaresp/StoreLab_FrontEnd (developing)
+* AppStore Back-End: https://github.com/matsoaresp/StoreLab_BackEnd (developing)
 
 ### Socials
 
